@@ -37,8 +37,8 @@ Tämä sivusto sisältää syvällisen analyysin hyvinvointivaltion merkityksest
 2. Lisää kaikki tiedostot repositoryyn kansioineen
 3. Mene Settings > Pages
 4. Valitse source: "Deploy from a branch"
-5. Valitse branch: `main` ja folder: `/ (root)`
-6. Sivusto on valmis osoitteessa: `https://[käyttäjänimi].github.io/hyvinvointivaltio-analyysi/`
+5. Valitse branch: `main` ja folder: `/ (docs)`
+6. Sivusto on valmis osoitteessa: `https://stochastic-philosophy.github.io/hyvinvointivaltio-analyysi/`
 
 ## Tekniikat
 

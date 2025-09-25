@@ -24,7 +24,7 @@ Tämä sivusto sisältää syvällisen analyysin hyvinvointivaltion merkityksest
 - `main.js` - Teemavaihto, cookie consent, navigation
 - Neljä analyysisivua `/pages/` -kansiossa
 
-## Osioyhdistykset
+## Osiot
 
 1. **Oppimiskatko** - Tieteen vs. politiikan oppimismallit
 2. **Empiiriset vastaukset** - Vastaukset ideologisiin kritiikkeihin

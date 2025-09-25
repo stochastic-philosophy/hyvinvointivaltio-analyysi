@@ -471,6 +471,7 @@ body {
   border-left-color: var(--accent);
 }
 
-.section-intro em {
+.section-intro em
+.article-content.section-intro {
   font-size: 0.75em;
 }

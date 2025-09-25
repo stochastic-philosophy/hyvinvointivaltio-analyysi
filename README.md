@@ -49,4 +49,4 @@ Tämä sivusto sisältää syvällisen analyysin hyvinvointivaltion merkityksest
 
 ## Tietosuoja
 
-Sivusto tallentaa ainoastaan teemavalintaa selaimen localStorage:een käyttäjän suostumuksella GDPR-säädösten mukaisesti.
+Sivusto tallentaa ainoastaan teemavalinnan selaimen localStorage:een käyttäjän suostumuksella GDPR-säädösten mukaisesti.

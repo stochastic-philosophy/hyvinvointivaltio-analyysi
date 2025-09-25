@@ -470,3 +470,7 @@ body {
   color: var(--text-secondary);
   border-left-color: var(--accent);
 }
+
+.section-intro em {
+  font-size: 0.75em;
+}

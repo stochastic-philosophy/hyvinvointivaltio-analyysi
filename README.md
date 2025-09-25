@@ -28,8 +28,8 @@ Tämä sivusto sisältää syvällisen analyysin hyvinvointivaltion merkityksest
 
 1. **Oppimiskatko** - Tieteen vs. politiikan oppimismallit
 2. **Empiiriset vastaukset** - Vastaukset ideologisiin kritiikkeihin
-3. **Moraaliset juuret** - Miksi faktat eivät muuta mielipiteitä  
-4. **Yhteiskunnallinen sopimus** - Itsekäs politiikka tuhoaa itsensä
+3. **Yhteiskunnallinen sopimus** - Itsekäs politiikka tuhoaa itsensä  
+4. **Moraaliset juuret** - Miksi faktat eivät muuta mielipiteitä
 
 ## Käyttöönotto GitHub Pages:ssa
 
